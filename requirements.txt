@@ -1,0 +1,22 @@
+# AutoGen v0.4+ packages
+autogen-agentchat==0.7.5
+autogen-core==0.7.5
+autogen-ext[openai,azure]==0.7.5
+
+# Azure SDKs
+azure-cosmos==4.7.0
+azure-identity==1.19.0
+
+# OpenAI
+# openai==1.54.0
+
+# PDF Processing
+PyPDF2==3.0.1
+
+# Environment Management
+python-dotenv==1.0.1
+
+# Optional: Better PDF parsing
+# pypdf==5.1.0
+# pdfplumber==0.11.4
+ 
